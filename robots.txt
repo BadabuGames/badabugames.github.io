@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://badabugames.github.io/Schedule1/sitemap.xml
